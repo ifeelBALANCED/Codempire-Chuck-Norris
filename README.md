@@ -1,8 +1,8 @@
 ## Task
-This assignment was offered as a test assignment for a trainee / junior position at codeempire
+This assignment was offered as a test assignment for a trainee / junior position at codeempire.
 Deployed version: https://cowboy-chuck.netlify.app/
 
-## Link to view layout ( Figma )
+## Link to view layout in Figma.
 https://codempire-my.sharepoint.com/:w:/g/personal/dima_codempire_team/EUx37GLW5lNKkkO9F2qG3aUBWBQFCZuJgq5pJySQqEcxTw?e=RVi5dF
 
 ## Available Scripts
