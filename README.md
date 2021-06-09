@@ -5,6 +5,13 @@ Deployed version: https://cowboy-chuck.netlify.app/
 ## Link to view layout in Figma.
 https://codempire-my.sharepoint.com/:w:/g/personal/dima_codempire_team/EUx37GLW5lNKkkO9F2qG3aUBWBQFCZuJgq5pJySQqEcxTw?e=RVi5dF
 
+## How to start the app
+
+1) First go to the project folder  ###cd сhuck norris or open project folder by right click on it.
+2) Run ### yarn  
+to install all necessary modules.
+3) Run ### yarn dev
+
 ## Available Scripts
 
 In the project directory, you can run:
