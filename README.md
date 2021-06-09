@@ -8,9 +8,9 @@ https://codempire-my.sharepoint.com/:w:/g/personal/dima_codempire_team/EUx37GLW5
 ## How to start the app
 
 1) First go to the project folder `cd сhuck norris` or open project folder by right click on it.
-2) Run ### `yarn`  
+2) Run `yarn`  
 to install all necessary modules.
-3) Run ### `yarn dev`
+3) Run `yarn dev`
 
 ## Available Scripts
 
