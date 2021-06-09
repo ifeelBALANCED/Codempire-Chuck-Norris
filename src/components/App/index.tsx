@@ -7,6 +7,8 @@ import {Header} from "../Header";
 import {Title} from "../Title";
 import {Categories} from "../Categories";
 import {Joke} from "../Joke";
+import {Voicy} from "../Voicy";
+
 
 export const App: FC = () => (
     <ChakraProvider theme={theme}>
@@ -16,6 +18,7 @@ export const App: FC = () => (
                 <Title title="Categories"/>
                 <Categories/>
                 <Joke/>
+                <Voicy/>
             </Container>
         </Flex>
     </ChakraProvider>
