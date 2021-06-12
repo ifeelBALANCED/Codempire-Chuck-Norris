@@ -3,11 +3,11 @@ This assignment was offered as a test assignment for a trainee / junior position
 Deployed version: https://cowboy-chuck.netlify.app/
 
 ## Link to view layout in Figma.
-https://codempire-my.sharepoint.com/:w:/g/personal/dima_codempire_team/EZOfBJVaO91FhtGLLTrmf5wBsL4pNrSUkzfRiXK5Dm0tHQ?rtime=LrhBsL0p2Ug
+https://codempire-my.sharepoint.com/:w:/g/personal/dima_codempire_team/EUx37GLW5lNKkkO9F2qG3aUBWBQFCZuJgq5pJySQqEcxTw?e=RVi5dF
 
 ## How to start the app
 
-1) First go to the project folder `cd COVID19` or open project folder in terminal by right click on it.
+1) First go to the project folder `cd chuck norris` or open project folder in terminal by right click on it.
 2) Run `yarn`  
 to install all necessary modules.
 3) Run `yarn dev`
